@@ -16,7 +16,14 @@ connectCloudinary()
 
 // middlewares
 app.use(express.json())
-app.use(cors())
+app.use(cors({
+  origin: [
+    'https://shop-sphere-wfqh.vercel.app', // main frontend
+    'https://shop-sphere-cuwf.vercel.app'  // admin panel
+  ],
+  credentials: true
+}))
+
 
 // api endpoints
 app.use('/api/user',userRouter)
