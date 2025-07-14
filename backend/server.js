@@ -21,6 +21,7 @@ app.use(cors({
     'https://shop-sphere-wfqh.vercel.app', // main frontend
     'https://shop-sphere-cuwf.vercel.app'  // admin panel
   ],
+  methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
   credentials: true
 }))
 
