@@ -14,6 +14,7 @@ ShopSphere/
 
 
 🌐 Live Links
+
 Frontend (User Interface): [Vercel Link](https://shop-sphere-wfqh.vercel.app/)
 
 Admin Panel: [Vercel Link](https://shop-sphere-cuwf.vercel.app/)
@@ -92,14 +93,23 @@ Environment Variables
 Create a .env file in server/:
 
 env
+
 Copy
+
 Edit
+
 PORT=5000
+
 MONGO_URI=your_mongo_uri
+
 JWT_SECRET=your_jwt_secret
+
 CLOUDINARY_CLOUD_NAME=your_cloud_name
+
 CLOUDINARY_API_KEY=your_api_key
+
 CLOUDINARY_API_SECRET=your_api_secret
+
 🛠 Deployment
 Frontend & Admin
 Deploy client/ and admin/ folders on Vercel
