@@ -11,6 +11,8 @@ ShopSphere/
 ├── admin/             # Frontend (Vercel deployed)
 ├── backend/              # Admin panel (Vercel deployed)
 └── frontend/             # Backend (Railway deployed)
+
+
 🌐 Live Links
 Frontend (User Interface): [Vercel Link](https://shop-sphere-wfqh.vercel.app/)
 
@@ -72,7 +74,7 @@ Installation
 bash
 Copy
 Edit
-git clone https://github.com/your-username/shopshere.git
+git clone https://github.com/anjan-tech-dev/shopshere.git
 cd shopshere
 Install dependencies:
 bash
