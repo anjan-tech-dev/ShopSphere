@@ -14,10 +14,20 @@ const About = () => {
       <div className='my-10 flex flex-col md:flex-row gap-16'>
           <img className='w-full md:max-w-[450px]' src={assets.about_img} alt="" />
           <div className='flex flex-col justify-center gap-6 md:w-2/4 text-gray-600'>
-              <p>Forever was born out of a passion for innovation and a desire to revolutionize the way people shop online. Our journey began with a simple idea: to provide a platform where customers can easily discover, explore, and purchase a wide range of products from the comfort of their homes.</p>
-              <p>Since our inception, we've worked tirelessly to curate a diverse selection of high-quality products that cater to every taste and preference. From fashion and beauty to electronics and home essentials, we offer an extensive collection sourced from trusted brands and suppliers.</p>
+              <p>
+              At ShopSphere, we believe shopping should be an experience—seamless, stylish, and satisfying. Founded with a vision to bring high-quality products and trend-forward collections to your fingertips, we’re here to redefine the way you shop online.
+                </p><p>
+
+Whether you’re looking for timeless wardrobe essentials, the latest fashion drops, or thoughtful lifestyle products, ShopSphere curates a sphere of handpicked excellence—just for you.
+
+</p><p>
+
+We're more than just a marketplace. We're a brand that values authenticity, affordability, and aesthetic. Every click, every item, and every delivery is crafted to elevate your lifestyle.</p>
               <b className='text-gray-800'>Our Mission</b>
-              <p>Our mission at Forever is to empower customers with choice, convenience, and confidence. We're dedicated to providing a seamless shopping experience that exceeds expectations, from browsing and ordering to delivery and beyond.</p>
+              <p>Our mission at ShopSphere is simple:
+
+To create a connected, inclusive, and delightful shopping experience that inspires confidence and self-expression—one product at a time.
+</p>
           </div>
       </div>
 
