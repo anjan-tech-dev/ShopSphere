@@ -2,24 +2,43 @@
 ShopSphere is a full-stack e-commerce platform featuring a modern frontend, an intuitive admin panel, and a powerful backend API.
 This project allows users to browse products with filters, place orders, and log in. Admins can manage inventory and view all orders.
 
+User Interface:
+
+<img width="1798" height="645" alt="image" src="https://github.com/user-attachments/assets/99d91c34-82ae-4c9e-89e5-d27a545f7cea" />
+
+<img width="1896" height="830" alt="image" src="https://github.com/user-attachments/assets/4277cc96-f25d-4c19-bf64-31761b2dc14f" />
+
+<img width="1832" height="816" alt="image" src="https://github.com/user-attachments/assets/84f41364-7c7f-41af-b68b-d980b6c2a049" />
+
+<img width="1882" height="799" alt="image" src="https://github.com/user-attachments/assets/6b338c0c-363f-42fe-a3b5-339543c4ccae" />
+
+<img width="1856" height="815" alt="image" src="https://github.com/user-attachments/assets/51789e53-2aac-4113-b228-90096e62960b" />
+
+<img width="1797" height="877" alt="image" src="https://github.com/user-attachments/assets/1e4b1416-306a-4e58-8ded-bbbb4e9c890a" />
+
+
+Admin Panel:
+
+<img width="1849" height="838" alt="image" src="https://github.com/user-attachments/assets/9131be81-bd7d-4aa1-b71c-1279b9a59fd7" />
+
+<img width="1852" height="387" alt="image" src="https://github.com/user-attachments/assets/69e88f16-3e67-4682-b278-680e4f9592c5" />
+
+
+
+
+
+
+
 📁 Project Structure
 bash
 Copy
 Edit
 ShopSphere/
 │
-├── admin/             # Frontend (Vercel deployed)
-├── backend/              # Admin panel (Vercel deployed)
-└── frontend/             # Backend (Railway deployed)
+├── admin/             # Frontend 
+├── backend/              # Admin panel 
+└── frontend/             # Backend 
 
-
-🌐 Live Links
-
-Frontend (User Interface): [Vercel Link](https://shop-sphere-wfqh.vercel.app/)
-
-Admin Panel: [Vercel Link](https://shop-sphere-cuwf.vercel.app/)
-
-Backend API: [Railway Link](https://shopsphere-production-61e6.up.railway.app/)
 
 ✨ Features
 🧑‍💼 Admin Panel
@@ -112,9 +131,12 @@ CLOUDINARY_API_SECRET=your_api_secret
 
 🛠 Deployment
 Frontend & Admin
-Deploy client/ and admin/ folders on Vercel
+Deploy frontend/ and admin/ folders on Vercel
 
 Backend
+Deploy backend on Railway
+
+
 Deploy server/ on Railway
 
 Make sure your environment variables are set on Railway dashboard
