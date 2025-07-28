@@ -16,14 +16,21 @@ User Interface:
 
 <img width="1797" height="877" alt="image" src="https://github.com/user-attachments/assets/1e4b1416-306a-4e58-8ded-bbbb4e9c890a" />
 
+<img width="1866" height="828" alt="image" src="https://github.com/user-attachments/assets/78133b96-c3d8-4882-8eee-d3726cee66ca" />
+
+<img width="1914" height="795" alt="image" src="https://github.com/user-attachments/assets/b89eab65-f4d9-4a20-9e71-b79027156730" />
+
+<img width="1915" height="672" alt="image" src="https://github.com/user-attachments/assets/4846d37b-32fc-4ea4-9a86-c55ce563cb73" />
 
 Admin Panel:
+
+<img width="1167" height="586" alt="image" src="https://github.com/user-attachments/assets/5b65f149-833b-49a2-86fe-8ee6cb36056d" />
 
 <img width="1849" height="838" alt="image" src="https://github.com/user-attachments/assets/9131be81-bd7d-4aa1-b71c-1279b9a59fd7" />
 
 <img width="1852" height="387" alt="image" src="https://github.com/user-attachments/assets/69e88f16-3e67-4682-b278-680e4f9592c5" />
 
-
+<img width="1919" height="489" alt="image" src="https://github.com/user-attachments/assets/0439ce82-bebf-405a-ae8b-79366011fcc3" />
 
 
 
