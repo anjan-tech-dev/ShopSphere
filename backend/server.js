@@ -10,9 +10,9 @@ import orderRouter from './routes/orderRoute.js'
 
 // App Config
 const app = express()
-const port = process.env.PORT || 4000
-// connectDB()
-// connectCloudinary()
+const port = process.env.PORT || 8080
+connectDB()
+connectCloudinary()
 
 // middlewares
 app.use(express.json())
